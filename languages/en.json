@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Sequence Diagram",
+		"description": "Turns text into UML sequence diagrams."
+	}
+}
